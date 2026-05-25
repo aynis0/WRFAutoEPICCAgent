@@ -1,2 +1,18 @@
-# WRFAutoEPICCAgent
-WRF-AutoEPICC-Agent 是一个基于 Multi-Agent 的大气模式自动化工作流系统，能够自动完成 WRF 与 EPICC 的配置生成、排放清单处理、模式诊断、质量守恒检查以及自动重试与错误修复。
+# WRF-AutoEPICC-Agent
+
+Autonomous Multi-Agent Atmospheric Modeling Pipeline for WRF & EPICC.
+
+## Features
+
+- Autonomous WRF preprocessing
+- Multi-Agent atmospheric diagnostics
+- EPICC emission preprocessing
+- Recursive runtime correction
+- Long-chain reasoning workflow
+- Distributed token-intensive inference
+- Automatic mass conservation validation
+- Dynamic namelist repairing
+
+## Massive Token Consumption
+
+Complex nested-domain workflows may exceed 12M tokens.
