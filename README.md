@@ -13,6 +13,4 @@ Autonomous Multi-Agent Atmospheric Modeling Pipeline for WRF & EPICC.
 - Automatic mass conservation validation
 - Dynamic namelist repairing
 
-## Massive Token Consumption
 
-Complex nested-domain workflows may exceed 12M tokens.
