@@ -1,0 +1,7 @@
+pipeline:
+  - parse_inventory
+  - species_mapping
+  - vertical_allocation
+  - conservative_interpolation
+  - generate_epicc_inputs
+  - validation

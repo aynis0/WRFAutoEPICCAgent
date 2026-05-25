@@ -1,0 +1,7 @@
+pipeline:
+  - load_wrf_metadata
+  - analyze_nested_domains
+  - validate_physics
+  - run_mass_conservation
+  - generate_runtime_fix
+  - rerun_simulation
